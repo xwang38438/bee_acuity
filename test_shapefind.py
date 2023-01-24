@@ -1,12 +1,14 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-  
+import sys
+
 # reading image
 img = cv2.imread('shapes.png')
   
 # converting image into grayscale image
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+grayneg = 255 - gray
   
 # setting threshold of gray image
 _, threshold = cv2.threshold(gray, 127, 255, cv2.THRESH_BINARY)
@@ -16,7 +18,7 @@ contours, _ = cv2.findContours(
     threshold, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
   
 i = 0
-  
+
 # list for storing names of shapes
 for contour in contours:
   
@@ -65,3 +67,4 @@ cv2.imshow('shapes', img)
   
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
