@@ -75,7 +75,7 @@ for contour in contours:
     # cv2.approxPloyDP() function to approximate the shape
     approx = cv2.approxPolyDP(
         contour, 0.01 * cv2.arcLength(contour, True), True)
-    print(str(len(approx)))
+    #print(str(len(approx)))
 
 #Adding contours to cropped image      
     # using drawContours() function
@@ -90,9 +90,11 @@ for contour in contours:
         center_coordinates = (x, y)
     if len(approx) > 8 :
         cv2.circle(crop, center_coordinates, 2, (0,255,0), 2)
-  
+        print(str(center_coordinates))
+    print(str(len(approx)))
 # displaying the image after drawing contours
 cv2.imshow('shapes', crop)
+cv2.imshow('full', img)
   
 cv2.waitKey(0)
 cv2.destroyAllWindows()
