@@ -90,8 +90,8 @@ for contour in contours:
         center_coordinates = (x, y)
     if len(approx) > 8 :
         cv2.circle(crop, center_coordinates, 2, (0,255,0), 2)
-        print(str(center_coordinates))
-    print(str(len(approx)))
+#         print(str(center_coordinates))
+#     print(str(len(approx)))
 # displaying the image after drawing contours
 cv2.imshow('shapes', crop)
 cv2.imshow('full', img)
