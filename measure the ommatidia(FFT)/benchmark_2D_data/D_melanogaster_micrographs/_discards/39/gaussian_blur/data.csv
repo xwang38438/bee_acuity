@@ -1,0 +1,7 @@
+filename,intensity,lens_diameter,lens_count,total_dur,get_outline_dur,get_eye_dimensions_dur,get_ommatidia_dur,measure_ommatidia_dur
+D_melanogaster_micrographs\39\gaussian_blur\intensity_1.000.png,1.0,0.015521935871873796,826.0,3.0283169,0.3563076,0.0011027,2.1564526,0.0016657000000000002
+D_melanogaster_micrographs\39\gaussian_blur\intensity_2.000.png,2.0,0.015526255630278192,796.0,5.7716186,0.3024856,0.0010868,4.9481265,0.0014351000000000001
+D_melanogaster_micrographs\39\gaussian_blur\intensity_4.000.png,4.0,0.05206142749037838,53.0,7.4566894,0.37829470000000004,0.001088,6.6282721,0.0005949
+D_melanogaster_micrographs\39\gaussian_blur\intensity_8.000.png,8.0,0.029580631348077244,108.0,7.607024200000001,0.2918488,0.0015141,6.913662100000001,0.0006323
+D_melanogaster_micrographs\39\gaussian_blur\intensity_16.000.png,16.0,,0.0,8.2016247,0.3455278,0.0011211,7.552668300000001,3.9e-06
+D_melanogaster_micrographs\39\gaussian_blur\intensity_32.000.png,32.0,,0.0,6.2119891,0.2409302,0.0011457000000000001,5.663885400000001,7.8e-06

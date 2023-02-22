@@ -1,0 +1,13 @@
+import eye_tools as et
+import os
+
+
+fns = os.listdir("./")
+img_fns = [fn for fn in fns if fn.endswith(".jpg")]
+# for each image, 
+if not os.path.isdir("masks"):
+    os.mkdir("masks")
+# use color selector to make masks for each image
+for fn in img_fns:
+    layer = et.Layer(fn)
+    breakpoint()

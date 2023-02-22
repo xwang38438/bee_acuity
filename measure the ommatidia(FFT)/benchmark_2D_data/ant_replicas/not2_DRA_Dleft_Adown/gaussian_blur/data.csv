@@ -1,0 +1,7 @@
+filename,intensity,lens_diameter,lens_count,total_dur,get_outline_dur,get_eye_dimensions_dur,get_ommatidia_dur,measure_ommatidia_dur
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_1.000.png,1.0,0.0143667612864113,168.0,1.9060764000000001,0.2427995,0.0008524,1.3410043,0.0009812
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_2.000.png,2.0,,0.0,0.941408,0.25044920000000004,0.0008826000000000001,0.3887994,7.2000000000000005e-06
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_4.000.png,4.0,,0.0,0.8617298000000001,0.2536707,0.0008995,0.27509710000000004,8.1e-06
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_8.000.png,8.0,,0.0,0.9769433000000001,0.26655090000000004,0.0010732,0.4135514,6.900000000000001e-06
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_16.000.png,16.0,,0.0,0.9758554,0.2768139,0.0008689,0.3941888,7.3e-06
+ant_replicas\not2_DRA_Dleft_Adown\gaussian_blur\intensity_32.000.png,32.0,,0.0,0.9501904000000001,0.2583115,0.0009762000000000001,0.40079380000000003,8.000000000000001e-06

@@ -1,0 +1,100 @@
+Contrast Results
+diam best:      0.8566 +/- 0.0673
+diam min:       0.8536 +/- 0.0663
+diam max:       1.2577 +/- 1.1964
+diam thresh:    0.0086 +/- 0.0034
+count best:     0.9311 +/- 0.132
+count min:      0.4248 +/- 0.4687
+count max:      0.9323 +/- 0.1318
+count thresh:   0.0128 +/- 0.0067
+
+D Melanogaster Sem
+diam best:      0.861   +/-0.037
+diam min:       0.86    +/-0.036
+diam max:       2.341   +/-2.19
+diam thresh:    0.009   +/-0.001
+count best:     0.809   +/-0.055
+count min:      0.018   +/-0.027
+count max:      0.81    +/-0.055
+count thresh:   0.017   +/-0.005
+
+D Melanogaster Micrographs
+diam best:      0.821   +/-0.088
+diam min:       0.817   +/-0.089
+diam max:       0.823   +/-0.088
+diam thresh:    0.005   +/-0.002
+count best:     1.048   +/-0.188
+count min:      0.987   +/-0.176
+count max:      1.053   +/-0.183
+count thresh:   0.007   +/-0.001
+
+D Mauritiana Sem
+diam best:      0.819   +/-0.048
+diam min:       0.818   +/-0.048
+diam max:       0.934   +/-0.161
+diam thresh:    0.013   +/-0.002
+count best:     0.879   +/-0.021
+count min:      0.0     +/-0.0
+count max:      0.879   +/-0.021
+count thresh:   0.02    +/-0.006
+
+Ant Replicas
+diam best:      0.925   +/-0.033
+diam min:       0.919   +/-0.023
+diam max:       0.933   +/-0.027
+diam thresh:    0.008   +/-0.003
+count best:     0.988   +/-0.034
+count min:      0.694   +/-0.305
+count max:      0.988   +/-0.034
+count thresh:   0.009   +/-0.002
+
+
+Resolution Results
+diam best:      0.8566 +/- 0.0673
+diam min:       0.8359 +/- 0.0628
+diam max:       3.0473 +/- 5.9738
+diam thresh:    4.5368 +/- 2.3303
+count best:     0.9311 +/- 0.132
+count min:      0.0491 +/- 0.0932
+count max:      0.9412 +/- 0.1303
+count thresh:   4.1587 +/- 1.9437
+
+D Melanogaster Sem
+diam best:      0.861   +/-0.037
+diam min:       0.844   +/-0.05
+diam max:       1.174   +/-0.593
+diam thresh:    4.603   +/-1.58
+count best:     0.809   +/-0.055
+count min:      0.019   +/-0.043
+count max:      0.824   +/-0.051
+count thresh:   2.876   +/-0.057
+
+D Melanogaster Micrographs
+diam best:      0.821   +/-0.088
+diam min:       0.8     +/-0.08
+diam max:       1.002   +/-0.044
+diam thresh:    6.47    +/-2.643
+count best:     1.048   +/-0.188
+count min:      0.0     +/-0.0
+count max:      1.048   +/-0.188
+count thresh:   6.47    +/-2.643
+
+D Mauritiana Sem
+diam best:      0.819   +/-0.048
+diam min:       0.811   +/-0.045
+diam max:       1.293   +/-0.36
+diam thresh:    4.938   +/-1.941
+count best:     0.879   +/-0.021
+count min:      0.177   +/-0.109
+count max:      0.882   +/-0.021
+count thresh:   4.099   +/-0.237
+
+Ant Replicas
+diam best:      0.925   +/-0.033
+diam min:       0.889   +/-0.044
+diam max:       8.72    +/-10.74
+diam thresh:    2.137   +/-0.685
+count best:     0.988   +/-0.034
+count min:      0.0     +/-0.0
+count max:      1.011   +/-0.022
+count thresh:   3.19    +/-0.994

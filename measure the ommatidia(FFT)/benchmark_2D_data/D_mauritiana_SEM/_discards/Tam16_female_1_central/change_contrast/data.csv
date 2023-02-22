@@ -1,0 +1,7 @@
+filename,intensity,lens_diameter,lens_count,total_dur,get_outline_dur,get_eye_dimensions_dur,get_ommatidia_dur,measure_ommatidia_dur
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_0.031.png,0.03125,,0.0,4.7766504,0.8803565000000001,0.0014242,3.3811057,1.02e-05
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_0.062.png,0.0625,0.021311463040620624,111.0,4.8023344,0.7963427000000001,0.0013030000000000001,3.4889913000000004,0.0007027
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_0.125.png,0.125,0.019814430489937793,577.0,4.929522700000001,0.8070402000000001,0.001268,3.5024022,0.0017431
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_0.250.png,0.25,0.019664584369415993,782.0,4.883115200000001,0.7763414000000001,0.0012902,3.4220750000000004,0.0015616
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_0.500.png,0.5,0.019608949011255306,872.0,5.288911000000001,0.8139562,0.0012925,3.7454645,0.0030029
+D_mauritiana_SEM\Tam16_female_1_central\change_contrast\intensity_1.000.png,1.0,0.01965197446988787,911.0,5.3741504,0.8711296000000001,0.0012969000000000001,3.7761329000000003,0.0023901
